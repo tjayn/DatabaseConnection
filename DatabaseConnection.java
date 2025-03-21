@@ -2,7 +2,7 @@
  * Program To Show Connection Of A Database Using Java
  * Author: Thuku Josphat Wamwago
  * Reg No: CT101/G/19448/23
- * Date: 9/3/2025
+ * Date: 19/3/2025
  * Version: 1
  */
 
